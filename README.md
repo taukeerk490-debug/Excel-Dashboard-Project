@@ -31,3 +31,6 @@ This project is an interactive Excel Dashboard created to analyze cosmetic busin
 
 ## Project File
 Download the Excel workbook from this repository to explore the dashboard.
+## Dashboard Preview
+
+![Cosmetic Excel Dashboard](Cosmetic-Dashboard.png)
